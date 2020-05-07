@@ -1,5 +1,4 @@
 import React from 'react'
-import logo from '../images/Ejemplo1.jpg';
 import '../css/design.css';
 
 
@@ -7,37 +6,7 @@ import '../css/design.css';
 class Body extends React.Component {
    render(){
     return(
-      //   <center>
-      //   <br/>
-      //       <div className="container px-lg-5">
-      //         <div className="row mx-lg-n5">
-      //           <div className="col py-3 "><a href="https://www.facebook.com"><img src={logo} alt="" width="270" height="270"/></a></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //           <div className="col py-3 "><img src={logo} alt="" width="270" height="270"/></div>
-      //         </div>
-      //       </div>
-      //  </center>
+    
 
     <div class="grid-container">
   <div class="grid-item1">
