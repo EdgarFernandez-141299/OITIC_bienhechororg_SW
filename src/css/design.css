@@ -1,3 +1,10 @@
+/*NAVBAR*/
+
+
+
+
+
+/*FIN NAVBAR*/
 .grid-container {
     position: relative;
     width: 78%;
@@ -10,6 +17,7 @@
     background-color: white;
     border: none;
     padding: 10px;
+    background-color: black;
   }
   
   .grid-item1 {
@@ -17,7 +25,6 @@
     background-color: rgba(255, 255, 255, 0.8);
     border: 1px solid rgba(44, 44, 44, 0.8);
     padding: 0px;
-    font-size: 30px;
     text-align: center;
     width: 250px;
     height: 250px;
@@ -25,18 +32,16 @@
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
      box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-    /* background-image:url("../images/img1.jpg");
-    background-repeat: no-repeat;
-    background-size: cover; */
+
     
   }
-  .div-img{
+  /* .div-img{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 250px;
     height: 250px;
-  }
+  } */
     .div-imghidden{
       overflow:hidden;
     }
@@ -236,3 +241,5 @@
     -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
   }
+
+ 
