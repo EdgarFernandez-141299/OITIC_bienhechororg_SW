@@ -1,5 +1,6 @@
 import React from 'react'
 import { Modal, Button } from 'react-bootstrap';
+import '../css/responsive.css';
 
 function ModalQS(props) {
     return (
@@ -33,9 +34,9 @@ function ModalQS(props) {
     return (
       <>
         <Button variant="link" onClick={() => setModalShow(true)}>
-        <div class="grid-item1">
-         <div class="div-imghidden" >
-         <img class="img" src={require("../images/im1.jpg")} alt="imagen"/>
+        <div className="grid-item1">
+         <div className="div-imghidden" >
+         <img className="img" src={require("../images/im1.jpg")} alt="imagen"/>
          </div>
         </div>
         </Button>
